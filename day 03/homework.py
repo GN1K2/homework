@@ -1,1 +1,5 @@
 print("gio")
+print("natia")
+print("giorgi")
+print("uca")
+print("mari")
